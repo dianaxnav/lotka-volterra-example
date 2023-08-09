@@ -87,3 +87,5 @@ What happens as you change the different parameters (and re-run the entire code 
 ## End
 
 #I changed parameters and x and y variables
+
+#I made changes
